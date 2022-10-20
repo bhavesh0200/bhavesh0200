@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhavesh0200
 - 👀 I’m interested in getting an internship as a Data Scientist
 - 🌱 I’m currently learning Masters in Data Science
-- 💞️ I’m looking to collaborate on projects on machine learning
+- 💞️ I’m looking to collaborate on projects on machine learning and deep learning
 - 📫 How to reach me 'bhaveshwadekar110@gmail.com'
 
 <!---
