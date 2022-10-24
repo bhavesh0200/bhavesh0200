@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavesh0200
+- 👋 Hi, I’m @bhavesh0200 or Bhavesh Wadekar
 - 👀 I’m interested in getting an internship as a Data Scientist
 - 🌱 I’m currently learning Masters in Data Science
 - 💞️ I’m looking to collaborate on projects on machine learning and deep learning
